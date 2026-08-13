@@ -7,7 +7,7 @@ function ConvertHandler() {
     if (idx === 0) {
       return 1;
     }
-
+*
     let quantityStr;
     if (idx < 0) {
       quantityStr = input.slice(0);
